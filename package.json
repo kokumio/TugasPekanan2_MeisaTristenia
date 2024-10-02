@@ -1,0 +1,12 @@
+{
+  "name": "tugas-pekanan-2_meisa-tristenia",
+  "version": "1.0.0",
+  "main": "soal1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
